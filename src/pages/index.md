@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: All About Shoes
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      We are India's first running shoe portal.  Find everything about running
+      shoes; prices, deals, selection guides, and more. 
     actions:
       - label: Learn More
         url: /features
